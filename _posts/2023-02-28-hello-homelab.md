@@ -1,5 +1,5 @@
 ---
-title: Hello HomeLab
+title: Jack Kiwema
 date: 2023-02-28 10:31:00 +300
 categories: [homelab, hardware]
 tags: [Servers,dell,hp,supermicro]     # TAG names should always be lowercase
