@@ -1,3 +1,3 @@
-# About This Site
+# About Jack Kiwema
 
-This site content was generated using Docify and went to demo in Opensource.com
+Hello, am Jack Kiwema, a systems Engineer with a passion to understand why things work the way they work
